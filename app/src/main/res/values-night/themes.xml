@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StudySincv2" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Customize your dark theme here. -->
+        <item name="android:textColor">@color/putih</item>
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="Theme.StudySincv2" parent="Base.Theme.StudySincv2" />
+    <style name="TittleAppBar">
+        <item name="android:fontFamily">@font/poppinssemibold</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/hitam</item>
+    </style>
+</resources>
